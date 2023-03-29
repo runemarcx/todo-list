@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.title 
+{
+    font-weight: 5000;
+    font-style: oblique;
+}
+.todo
+{
+    padding-left: 10px;
+}
